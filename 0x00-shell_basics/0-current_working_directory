@@ -1,0 +1,3 @@
+#!/bin/bash
+#This command should print current working Directory
+echo $PATH
