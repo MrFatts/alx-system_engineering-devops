@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -n "German (Der " iacta | tail -n 1 | tee -a iacta
+tail -1 < iacta >> iacta
